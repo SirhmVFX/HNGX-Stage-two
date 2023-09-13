@@ -196,6 +196,7 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   gap: 20px;
+  align-items: center;
   padding-block: 44px;
   flex-flow: wrap;
 }
