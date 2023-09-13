@@ -61,6 +61,7 @@ function SingleMovie() {
               </div>
             </div>
           </div>
+
           <div className="pi-20">
             <div className="side-nav-links">
               <img src="/images/Logout.png" alt="logout" />
