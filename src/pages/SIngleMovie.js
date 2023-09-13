@@ -17,6 +17,7 @@ function SingleMovie() {
   useEffect(() => {
     fecthMovieDetails();
     window.scrollTo(0, 0);
+    // eslint-disable-next-line
   }, []);
 
   console.log(movieDetails);
